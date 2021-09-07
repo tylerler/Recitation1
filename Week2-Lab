@@ -1,0 +1,8 @@
+points_obtained=70
+total_points=400
+percentage= (points_obtained/total_points)*100
+print(percentage)
+teststring='this is a string'
+print(teststring)
+print(teststring[3])
+print(teststring[-1])
